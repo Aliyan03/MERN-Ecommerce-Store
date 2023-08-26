@@ -155,20 +155,19 @@ frontend repository of our E-Commerce project! This README will provide an overv
 - Usage
   - Home Page
   - Product Category Page
-  - [Category Product Page]
-  - [ Registration Page]
-  - [ Login Page]
-  - [ forgot password]
-  - [ Cart page]
+  - Category Product Page
+  - Registration Page
+  - Login Page
+  - forgot password
+  - Cart page
 - Admin Panel
   - Components
   - Features
 - User Panel
   - Components
   - Features
-- [Technologies Used]
-- [Contributing]
-- [License]
+- Technologies Used
+- Contributing
 
 ## Project Overview
 Our E-Commerce project aims to create an online shopping platform where users can browse products, view product categories, and add items to their cart. The frontend is built using React and interacts with the backend API to fetch and display data.
